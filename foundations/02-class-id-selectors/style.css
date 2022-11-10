@@ -1,0 +1,20 @@
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: rgb(112, 233, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.number3,
+.group{
+    background-color: rgb(243, 184, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.number3{
+    font-size: 24px;
+}

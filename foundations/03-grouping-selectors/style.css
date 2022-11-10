@@ -1,0 +1,16 @@
+.on{
+    background-color: black;
+    color: white;
+    border-color: grey;
+}
+
+.off{
+    background-color: yellow;
+    border-color: darkgray;
+}
+
+.on,
+.off{
+    font-size: 40px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
